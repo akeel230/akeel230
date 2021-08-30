@@ -7,7 +7,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects, Land an Internship
 - ⚡ Fun fact: I Say Yes I can to things , idk whether I can XD
 
-<br />
 
 ### Languages and Tools:
 
@@ -20,7 +19,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
----
+
 
 ### Connect with me:
 
