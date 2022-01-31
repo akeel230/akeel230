@@ -1,11 +1,11 @@
 ### Hi there, I'm Seyed Akeel [akeel230] 👋
 
-## I'm a Software Engineering Undergraduate (1st Year)
+## I'm a Software Engineering Undergraduate 
 
-- 🌱 I’m currently learning React and JavaScript
-- 👯 I’m looking for internships and other opportunities 
-- 🥅 2021 Goals: Contribute to Open Source projects, Land an Internship
-- ⚡ Fun fact: I Say Yes I can to things , idk whether I can XD
+- I’m currently learning React and JavaScript
+- I’m looking for internships and other opportunities 
+- 2021 Goals: Contribute to Open Source projects, Land an Internship
+-  Fun fact: I Say Yes I can to things , idk whether I can XD
 
 
 ### Languages and Tools:
