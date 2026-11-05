@@ -18,7 +18,6 @@
 - 🧭 **Technical Lead** at [Design Point Digital](https://designpoint.com.au) — Melbourne web agency
 - 🏢 **Tech Lead** on [SAM Network](https://samnet.com.au) — one platform for the entire buildings ecosystem
 - 💬 Building **HiToFulbe** — a private family messaging app
-- 🛠️ Running **Aspire Haven** — independent web & digital studio
 - 🎓 Bachelor of Information Technology — **RMIT University** (2025)
 - 🌏 From Sri Lanka 🇱🇰 · based in Melbourne 🇦🇺
 
@@ -52,7 +51,7 @@ Private family messaging PWA — real-time chat, voice & video calls, stories an
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧭 Design Point Digital
 **Technical Lead** · 2024 → now
@@ -64,24 +63,40 @@ Custom WordPress themes, WooCommerce stores, plugins and integrations (Stripe, C
 🔗 [designpoint.com.au](https://designpoint.com.au)
 
 </td>
-<td width="50%" valign="top">
-
-### 🛠️ Aspire Haven
-**Founder** · independent studio
-
-Custom themes, web apps and digital services for small businesses — design to deployment.
-
-`WordPress` `Web Apps` `Hosting`
-
-</td>
 </tr>
 </table>
 
 ## 🧰 Tech stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,java,html,css,sass,mysql,aws,git,github,figma,vscode&perline=8" alt="Tech stack" />
-</p>
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,jquery,vite&perline=12" alt="" />
+
+**Backend & CMS**<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,php,nodejs,express,java,spring,py,graphql&perline=12" alt="" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase&perline=12" alt="" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx,linux,ubuntu,bash,githubactions,vercel&perline=12" alt="" />
+
+**Platforms & Integrations**<br/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/ACF_Pro-00E4BC?style=for-the-badge&logo=wordpress&logoColor=white" alt="ACF Pro" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+
+**Tools & Design**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,figma,vscode,phpstorm,notion&perline=12" alt="" />
+
+</div>
 
 ## 🌱 Community & open source
 
