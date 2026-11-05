@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=210&section=header&text=Seyed%20Akeel&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Technical%20Lead%20%C2%B7%20Melbourne%2C%20Australia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Seyed Akeel" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Technical+Lead+%40+Design+Point+Digital;Tech+Lead+%E2%80%94+SAM+Network;Building+HiToFulbe+%E2%80%94+Connect+Across+Borders;WordPress+%C2%B7+PHP+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Technical+Lead+%40+Design+Point+Digital;Tech+Lead+%E2%80%94+SAM+Network;Building+HiToFulbe+%E2%80%94+Connect+Across+Borders;WordPress+%C2%B7+PHP+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing intro" />
 
 <p>
 <a href="https://www.linkedin.com/in/seyedakeel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -87,12 +87,5 @@ Custom themes, web apps and digital services for small businesses — design to 
 
 - 🎓 **Sustainable Education Foundation** — Associate Software Engineer / Web Team Leader (2021–22); contributor to [ScholarX](https://github.com/akeel230/scholarx) and the [SEF website](https://github.com/sef-global/sef-site)
 - 🤝 **The Open Gate** — co-founder of a government-approved youth non-profit in Sri Lanka; led 20+ community projects
-
-## 📊 GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akeel230&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=akeel230&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub streak" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="" />
