@@ -3,11 +3,12 @@
 <img src="assets/hero.svg" width="100%" alt="Seyed Akeel — Technical Lead, Melbourne" />
 
 <p>
-<a href="https://www.linkedin.com/in/seyedakeel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://samnet.com.au"><img src="https://img.shields.io/badge/SAM_Network-0F172A?style=for-the-badge&logo=homeassistant&logoColor=22D3EE" alt="SAM Network" /></a>
-<a href="https://designpoint.com.au"><img src="https://img.shields.io/badge/Design_Point_Digital-111827?style=for-the-badge&logo=wordpress&logoColor=white" alt="Design Point Digital" /></a>
-<img src="https://komarev.com/ghpvc/?username=akeel230&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://www.linkedin.com/in/seyedakeel/"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
+<a href="https://samnet.com.au"><img src="assets/btn-samnet.svg" height="56" alt="SAM Network" /></a>
+<a href="https://designpoint.com.au"><img src="assets/btn-dpd.svg" height="56" alt="Design Point Digital" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=akeel230&style=flat-square&color=8B5CF6&label=profile+views" alt="Profile views" />
 
 </div>
 
@@ -61,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx,linux,ubuntu,bash,githubactions,vercel&perline=12" alt="" />
 
 <sub><b>PLATFORMS & INTEGRATIONS</b></sub><br/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" /> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" /> <img src="https://img.shields.io/badge/ACF_Pro-00A991?style=for-the-badge&logo=wordpress&logoColor=white" alt="ACF Pro" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /> <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+<img src="assets/platforms.svg" width="100%" alt="WooCommerce, Shopify, Elementor, ACF Pro, Stripe, PayPal, cPanel, WebRTC, PWA, REST APIs, MemberPress" />
 
 <sub><b>TOOLS & DESIGN</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=git,github,npm,postman,figma,vscode,phpstorm,notion&perline=12" alt="" />
@@ -72,8 +73,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-stats-dark.svg" />
   <img src="assets/h-stats-light.svg" width="100%" alt="Activity" />
 </picture>
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akeel230/akeel230/output/snake-dark.svg" />
