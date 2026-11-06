@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330" role="img" aria-label="Community &amp; Open Source">
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+  <linearGradient id="bd" x1="0" x2="1"><stop offset="0" stop-color="#FBBF24" stop-opacity=".9"/><stop offset=".35" stop-color="#F97316" stop-opacity=".15"/><stop offset=".65" stop-color="#FBBF24" stop-opacity=".15"/><stop offset="1" stop-color="#F97316" stop-opacity=".9"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#F97316" stop-opacity=".45"/><stop offset=".6" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#94A3B8" fill-opacity=".09"/></pattern>
+  <clipPath id="c"><rect x="2" y="2" width="616" height="326" rx="24"/></clipPath>
+  <style>
+    .t{font:800 30px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#F8FAFC;letter-spacing:-.5px}
+    .r{font:600 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#FBBF24}
+    .d{font:400 17.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#A9B4C6}
+    .tg{font:600 13.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#E2E8F0}
+    .st{font:700 12px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;letter-spacing:1.5px;fill:#FBBF24}
+    .gl{animation:breathe 5s ease-in-out infinite} @keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+    .dt{animation:pulse 1.6s ease-in-out infinite} @keyframes pulse{50%{opacity:.25}}
+    .ic{animation:float 4s ease-in-out infinite} @keyframes float{0%,100%{transform:translate(78px,74px)}50%{transform:translate(78px,69px)}}
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="620" height="330" fill="#0B1222"/>
+  <rect width="620" height="330" fill="url(#dots)"/>
+  <rect class="gl" width="620" height="330" fill="url(#glow)"/>
+</g>
+<rect x="2" y="2" width="616" height="326" rx="24" fill="none" stroke="url(#bd)" stroke-width="2.5"/>
+<g class="ic" transform="translate(78 74)">
+  <rect x="-34" y="-34" width="68" height="68" rx="18" fill="url(#a)"/>
+  <rect x="-34" y="-34" width="68" height="34" rx="18" fill="#fff" fill-opacity=".12"/>
+  <circle r="17" fill="none" stroke="#fff" stroke-width="3"/><ellipse rx="7.5" ry="17" fill="none" stroke="#fff" stroke-width="3"/><path d="M-17 0h34M-14-9h28M-14 9h28" stroke="#fff" stroke-width="2.5"/>
+</g>
+<rect x="464" y="40" width="112" height="28" rx="14" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".4"/>
+<circle class="dt" cx="480" cy="54" r="4" fill="#FBBF24"/>
+<text x="490" y="58.5" class="st">2021 → 22</text>
+<text x="44" y="146" class="t">Community &amp; Open Source</text>
+<text x="44" y="173" class="r">SEF · The Open Gate</text>
+<text x="44" y="204" class="d"><tspan x="44" dy="0">Web Team Leader at Sustainable Education</tspan><tspan x="44" dy="25">Foundation (ScholarX) and co-founder of</tspan><tspan x="44" dy="25">The Open Gate, a Sri Lankan non-profit.</tspan></text>
+<rect x="44" y="268" width="56" height="30" rx="15" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text x="72" y="288" class="tg" text-anchor="middle">Java</text><rect x="110.4" y="268" width="66" height="30" rx="15" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text x="143" y="288" class="tg" text-anchor="middle">React</text><rect x="186.4" y="268" width="124" height="30" rx="15" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text x="248" y="288" class="tg" text-anchor="middle">Open Source</text><rect x="320.0" y="268" width="114" height="30" rx="15" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text x="377" y="288" class="tg" text-anchor="middle">Leadership</text>
+</svg>

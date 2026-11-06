@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Seyed Akeel — Technical Lead">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B19"/><stop offset=".55" stop-color="#0B1430"/><stop offset="1" stop-color="#140B2E"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#A5F3FC"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#F472B6"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern>
+  <radialGradient id="fade" cx=".3" cy=".4" r=".8"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="gm"><rect width="1280" height="420" fill="url(#fade)"/></mask>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="card"><rect width="1280" height="420" rx="28"/></clipPath>
+  <style>
+    .blob{animation:drift 14s ease-in-out infinite alternate}
+    .b2{animation-duration:18s;animation-direction:alternate-reverse}
+    .b3{animation-duration:22s}
+    @keyframes drift{0%{transform:translate(0,0)}50%{transform:translate(90px,-40px)}100%{transform:translate(-60px,50px)}}
+    .pill{font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;letter-spacing:2.5px;fill:#A5F3FC}
+    .dot{animation:pulse 1.8s ease-in-out infinite;transform-origin:96px 101px}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.6)}}
+    .name{font:800 92px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;letter-spacing:-3px}
+    .sub{font:500 22px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#94A3B8}
+    .prompt{font:600 22px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#22D3EE}
+    .role{font:600 22px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#E2E8F0;opacity:0;animation:role 12s infinite}
+    @keyframes role{0%{opacity:0;transform:translateY(10px)}4%,29%{opacity:1;transform:translateY(0)}33%,100%{opacity:0;transform:translateY(-10px)}}
+    .code{font:500 17px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;white-space:pre}
+    .ln{opacity:0;animation:type .5s ease-out forwards}
+    @keyframes type{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+    .num{fill:#334155;text-anchor:end}
+    .kw{fill:#C084FC} .var{fill:#67E8F9} .key{fill:#93C5FD} .str{fill:#FDE68A} .p{fill:#94A3B8}
+    .cursor{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .tag{font:600 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#64748B;letter-spacing:1px}
+  </style>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)" mask="url(#gm)"/>
+  <g filter="url(#blur)" opacity=".75">
+    <circle class="blob" cx="230" cy="80" r="150" fill="#0EA5E9" opacity=".55"/>
+    <circle class="blob b2" cx="1050" cy="330" r="170" fill="#8B5CF6" opacity=".55"/>
+    <circle class="blob b3" cx="640" cy="420" r="130" fill="#EC4899" opacity=".35"/>
+  </g>
+  <!-- left -->
+  <rect x="74" y="84" width="360" height="34" rx="17" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".35"/>
+  <circle class="dot" cx="96" cy="101" r="5" fill="#22D3EE"/>
+  <text x="114" y="106.5" class="pill">TECHNICAL LEAD · MELBOURNE</text>
+  <text x="70" y="214" class="name" fill="url(#name)" filter="url(#glow)">Seyed Akeel</text>
+  <text x="74" y="254" class="sub">WordPress · PHP · TypeScript · Java · Cloud</text>
+  <text x="74" y="292" class="prompt">&gt;</text>
+  <g transform="translate(26 0)"><text x="74" y="292" class="role" style="animation-delay:0s">Leading web builds at Design Point Digital</text>
+<text x="74" y="292" class="role" style="animation-delay:4s">Engineering the SAM Network platform</text>
+<text x="74" y="292" class="role" style="animation-delay:8s">Shipping HiToFulbe — Connect Across Borders</text></g>
+  <text x="74" y="352" class="tag">DESIGN POINT DIGITAL  ·  SAM NETWORK  ·  HITOFULBE</text>
+  <!-- code window -->
+  <g>
+    <rect x="700" y="56" width="526" height="306" rx="18" fill="#0B1222" fill-opacity=".82" stroke="url(#edge)" stroke-width="1.5"/>
+    <path d="M700 74a18 18 0 0 1 18-18h490a18 18 0 0 1 18 18v20H700z" fill="#111A2E"/>
+    <circle cx="724" cy="76" r="6" fill="#FF5F57"/><circle cx="744" cy="76" r="6" fill="#FEBC2E"/><circle cx="764" cy="76" r="6" fill="#28C840"/>
+    <text x="963" y="81" class="code" style="font-size:13px;fill:#64748B" text-anchor="middle">akeel.ts</text>
+    <text x="752" y="128" class="code ln" style="animation-delay:0.50s"><tspan class="kw">const </tspan><tspan class="var">akeel</tspan><tspan class="p"> = {</tspan></text>
+<text x="728" y="128" class="code num">1</text>
+<text x="752" y="159" class="code ln" style="animation-delay:0.85s"><tspan class="key">  role</tspan><tspan class="p">: </tspan><tspan class="str">&quot;Technical Lead&quot;</tspan><tspan class="p">,</tspan></text>
+<text x="728" y="159" class="code num">2</text>
+<text x="752" y="190" class="code ln" style="animation-delay:1.20s"><tspan class="key">  building</tspan><tspan class="p">: [</tspan><tspan class="str">&quot;SAM Network&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;HiToFulbe&quot;</tspan><tspan class="p">],</tspan></text>
+<text x="728" y="190" class="code num">3</text>
+<text x="752" y="221" class="code ln" style="animation-delay:1.55s"><tspan class="key">  stack</tspan><tspan class="p">: [</tspan><tspan class="str">&quot;WordPress&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;PHP&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;TS&quot;</tspan><tspan class="p">, </tspan><tspan class="str">&quot;Java&quot;</tspan><tspan class="p">],</tspan></text>
+<text x="728" y="221" class="code num">4</text>
+<text x="752" y="252" class="code ln" style="animation-delay:1.90s"><tspan class="key">  education</tspan><tspan class="p">: </tspan><tspan class="str">&quot;BIT · RMIT University&quot;</tspan><tspan class="p">,</tspan></text>
+<text x="728" y="252" class="code num">5</text>
+<text x="752" y="283" class="code ln" style="animation-delay:2.25s"><tspan class="key">  base</tspan><tspan class="p">: </tspan><tspan class="str">&quot;Sri Lanka → Melbourne&quot;</tspan><tspan class="p">,</tspan></text>
+<text x="728" y="283" class="code num">6</text>
+<text x="752" y="314" class="code ln" style="animation-delay:2.60s"><tspan class="p">};</tspan></text>
+<text x="728" y="314" class="code num">7</text>
+    <rect class="cursor" x="777" y="321" width="10" height="20" fill="#22D3EE"/>
+  </g>
+  <rect width="1280" height="420" rx="28" fill="none" stroke="url(#edge)" stroke-opacity=".5" stroke-width="2"/>
+</g>
+</svg>

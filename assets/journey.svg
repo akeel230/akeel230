@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-label="Career journey">
+<defs>
+  <linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="120" y1="0" x2="1160" y2="0"><stop offset="0" stop-color="#FBBF24"/><stop offset=".35" stop-color="#34D399"/><stop offset=".7" stop-color="#818CF8"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+  <radialGradient id="sp"><stop offset="0" stop-color="#fff"/><stop offset=".3" stop-color="#A5F3FC"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
+  <clipPath id="c"><rect width="1280" height="330" rx="28"/></clipPath>
+  <filter id="b"><feGaussianBlur stdDeviation="50"/></filter>
+  <style>
+    .yr{font:700 15px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;letter-spacing:2px}
+    .tt{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#F1F5F9}
+    .ss{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif;fill:#94A3B8}
+    .nd{opacity:0;animation:in .7s ease-out forwards} @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .draw{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 2.4s ease-out forwards} @keyframes draw{to{stroke-dashoffset:0}}
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1280" height="330" fill="#0B1222"/>
+  <rect width="1280" height="330" fill="url(#grid)"/>
+  <g filter="url(#b)" opacity=".35"><circle cx="200" cy="40" r="120" fill="#F59E0B"/><circle cx="1100" cy="300" r="140" fill="#8B5CF6"/></g>
+</g>
+<rect x="1" y="1" width="1278" height="328" rx="28" fill="none" stroke="#94A3B8" stroke-opacity=".15" stroke-width="2"/>
+<line x1="120" y1="180" x2="1160" y2="180" stroke="#1E293B" stroke-width="6" stroke-linecap="round"/>
+<line class="draw" x1="120" y1="180" x2="1160" y2="180" stroke="url(#ln)" stroke-width="4" stroke-linecap="round"/>
+<circle r="16" cy="180" fill="url(#sp)"><animate attributeName="cx" values="120;1160" dur="5s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="5s" begin="2.4s" repeatCount="indefinite"/></circle>
+<g class="nd" style="animation-delay:0.30s">
+  <line x1="120" y1="168" x2="120" y2="106" stroke="#FBBF24" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="120" cy="180" r="18" fill="#FBBF24" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="0.30s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="180" r="8" fill="#0B1222" stroke="#FBBF24" stroke-width="3"/>
+  <text x="120" y="52" class="yr" fill="#FBBF24" text-anchor="middle">2021</text>
+  <text x="120" y="80" class="tt" text-anchor="middle">The Open Gate</text>
+  <text x="120" y="104" class="ss" text-anchor="middle">Co-founder · NGO</text>
+</g><g class="nd" style="animation-delay:0.65s">
+  <line x1="328" y1="192" x2="328" y2="204" stroke="#F97316" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="328" cy="180" r="18" fill="#F97316" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="0.65s" repeatCount="indefinite"/></circle>
+  <circle cx="328" cy="180" r="8" fill="#0B1222" stroke="#F97316" stroke-width="3"/>
+  <text x="328" y="226" class="yr" fill="#F97316" text-anchor="middle">2021</text>
+  <text x="328" y="254" class="tt" text-anchor="middle">SEF Global</text>
+  <text x="328" y="278" class="ss" text-anchor="middle">Assoc. Software Eng.</text>
+</g><g class="nd" style="animation-delay:1.00s">
+  <line x1="536" y1="168" x2="536" y2="106" stroke="#34D399" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="536" cy="180" r="18" fill="#34D399" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="1.00s" repeatCount="indefinite"/></circle>
+  <circle cx="536" cy="180" r="8" fill="#0B1222" stroke="#34D399" stroke-width="3"/>
+  <text x="536" y="52" class="yr" fill="#34D399" text-anchor="middle">2024</text>
+  <text x="536" y="80" class="tt" text-anchor="middle">Design Point</text>
+  <text x="536" y="104" class="ss" text-anchor="middle">Joined as intern</text>
+</g><g class="nd" style="animation-delay:1.35s">
+  <line x1="744" y1="192" x2="744" y2="204" stroke="#22D3EE" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="744" cy="180" r="18" fill="#22D3EE" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="1.35s" repeatCount="indefinite"/></circle>
+  <circle cx="744" cy="180" r="8" fill="#0B1222" stroke="#22D3EE" stroke-width="3"/>
+  <text x="744" y="226" class="yr" fill="#22D3EE" text-anchor="middle">2025</text>
+  <text x="744" y="254" class="tt" text-anchor="middle">RMIT University</text>
+  <text x="744" y="278" class="ss" text-anchor="middle">BIT graduate</text>
+</g><g class="nd" style="animation-delay:1.70s">
+  <line x1="952" y1="168" x2="952" y2="106" stroke="#818CF8" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="952" cy="180" r="18" fill="#818CF8" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="1.70s" repeatCount="indefinite"/></circle>
+  <circle cx="952" cy="180" r="8" fill="#0B1222" stroke="#818CF8" stroke-width="3"/>
+  <text x="952" y="52" class="yr" fill="#818CF8" text-anchor="middle">NOW</text>
+  <text x="952" y="80" class="tt" text-anchor="middle">Technical Lead</text>
+  <text x="952" y="104" class="ss" text-anchor="middle">DPD · SAM Network</text>
+</g><g class="nd" style="animation-delay:2.05s">
+  <line x1="1160" y1="192" x2="1160" y2="204" stroke="#F472B6" stroke-opacity=".45" stroke-dasharray="3 4"/>
+  <circle cx="1160" cy="180" r="18" fill="#F472B6" fill-opacity=".15"><animate attributeName="r" values="14;22;14" dur="2.4s" begin="2.05s" repeatCount="indefinite"/></circle>
+  <circle cx="1160" cy="180" r="8" fill="#0B1222" stroke="#F472B6" stroke-width="3"/>
+  <text x="1160" y="226" class="yr" fill="#F472B6" text-anchor="middle">NEXT</text>
+  <text x="1160" y="254" class="tt" text-anchor="middle">HiToFulbe</text>
+  <text x="1160" y="278" class="ss" text-anchor="middle">Launch &amp; native apps</text>
+</g>
+</svg>
